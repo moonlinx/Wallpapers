@@ -16,9 +16,10 @@
 - I will most likely name each image and make folders over time. Just not any
   time soon as that is a bit annoying.
 - Anyone is welcome to use these wallpapers
-  > [!WARNING]
-  > These wallpapers are subject to be deleted, so if you like them, please
-  > download to your local machine!
+
+> [!WARNING]
+> These wallpapers are subject to be deleted, so if you like them, please
+> download to your local machine!
 
 ## Disclaimers
 
