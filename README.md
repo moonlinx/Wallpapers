@@ -7,6 +7,7 @@
 - [Why?](#why)
 - [What am I going to do?](#what-am-i-going-to-do)
 - [Disclaimers](#disclaimers)
+  * [Sources](#sources)
 
 <!-- tocstop -->
 
@@ -19,7 +20,6 @@
 
 - I will most likely name each image and make folders over time. Just not any
   time soon as that is a bit annoying.
-- Anyone is welcome to use these wallpapers.
 
 > [!WARNING]
 > These wallpapers are subject to be deleted, so if you like them, please
@@ -27,5 +27,10 @@
 
 ## Disclaimers
 
-**I Do NOT own any of these images at all. All licensing is subject to the
-owners and owners make ask for removal.**
+**🎏 These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers**
+
+### Sources
+
+[Alphacorders](https://alphacoders.com) <br>
+[Wallhaven](https://wallhaven.cc/) <br>
+[Wallpaper-clan](https://wallpapers-clan.com/)
