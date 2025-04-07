@@ -14,7 +14,7 @@
 ## Why?
 
 - I wanted a repository for my wallpapers
-- I just reset my macbook and I lost all of my wallpapers ![sad](https://media.tenor.com/5lbcs68aI2MAAAAC/anime-sad.gif)
+- I just reset my MacBook and I lost all of my wallpapers ![sad](https://media.tenor.com/5lbcs68aI2MAAAAC/anime-sad.gif)
 
 ## What am I going to do?
 
@@ -31,6 +31,7 @@
 
 ### Sources
 
-[Alphacorders](https://alphacoders.com) <br>
-[Wallhaven](https://wallhaven.cc/) <br>
+[Alphacorders](https://alphacoders.com)
+[Wallhaven](https://wallhaven.cc/)
 [Wallpaper-clan](https://wallpapers-clan.com/)
+[UltraWideWallpapers](https://ultrawidewallpapers.net/)
